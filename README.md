@@ -16,5 +16,5 @@ Web Thương Mại Điện Tử
 6. Cấu Hình Đường Dẫn Folder configs/env.php
 ![Screenshot 2025-03-07 231424](https://github.com/user-attachments/assets/d971f379-1232-4293-b853-5e9079e1c586)
  - Chỉnh lại đường dẫn theo folder
- - http://localhost/{folder}
+ - Chạy dự án http://localhost/{folder}
 
