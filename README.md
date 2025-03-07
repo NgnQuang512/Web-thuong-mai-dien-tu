@@ -17,4 +17,11 @@ Web Thương Mại Điện Tử
 ![Screenshot 2025-03-07 231424](https://github.com/user-attachments/assets/d971f379-1232-4293-b853-5e9079e1c586)
  - Chỉnh lại đường dẫn theo folder
  - Chạy dự án http://localhost/{folder}
+ - Vào chức năng đăng nhập
+ - ![Screenshot 2025-03-07 234143](https://github.com/user-attachments/assets/3a4f1a22-31cd-4a9a-85e3-7792b7287adb)
+ - Nhập tài khoản admin : nguyenvana@gmail.com
+ - Mật khẩu : 123456
+ - Quay lại trang client bằng :
+ - ![image](https://github.com/user-attachments/assets/a1eaed4e-1cf2-40a4-88db-70e773e5ec40)
+
 
