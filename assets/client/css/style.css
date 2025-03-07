@@ -1,0 +1,23 @@
+@keyframes nextBf {
+  from {
+    left: 0%;
+  }
+  to {
+    left: -100%;
+  }
+}
+@keyframes nextAft {
+  from {
+    left: 100%;
+  }
+  to {
+    left: 0%;
+  }
+}
+.active {
+  border-bottom: 2.5px solid #d70018;
+}
+.highLight {
+  border: 2px solid #f25922;
+  padding: 3px;
+}
